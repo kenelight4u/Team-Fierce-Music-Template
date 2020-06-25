@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body {
+    font-family: 'Righteous', cursive;
+    font-size: 18px;
+    font: outline;
+}
+
+.round-circle {
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+.img-fluid {
+    min-width: 180px;
+    height: 250px !important;
+    border-radius: 5px;
+}
+.img-genre {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.hr {
+    border-top: 1px solid black;
+}
+.round-circles {
+	height: 70px;
+	width: 70px;
+	border-radius: 50%;
+}
+.img-fl{
+    height: 50px;
+    width: 50px;
+}
